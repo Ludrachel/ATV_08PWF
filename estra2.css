@@ -1,0 +1,52 @@
+body{
+    font-family: Arial;
+    }
+    
+    
+    h1{
+    font-family: 'Sofia Sans Condensed';
+    letter-spacing: 0.5rem;
+    background-color: #04779e;
+    color: azure;
+    }
+    
+    
+    p{
+    font-family: 'Sofia Sans Condensed';
+    text-align: center;
+    }
+    
+    
+    .img_ampliada a{
+    width: 8rem;
+    height: 8rem;
+    }
+    
+    
+    ul.li{
+    list-style-type: none;
+    }
+    
+    
+    a:link{
+    color: #04779e;
+    text-decoration: none;
+    }
+    
+    
+    a:visited{
+    color: #04779e;
+    text-decoration: none;
+    }
+    
+    
+    a:hover{
+    color: #04779e;
+    text-decoration: none;
+    }
+    
+    
+    span{
+    font-weight: bold;
+    }
+    
